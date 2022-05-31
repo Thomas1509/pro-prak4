@@ -1,1 +1,0 @@
-<?php return array('dependencies' => array('wp-api-fetch', 'wp-dom-ready'), 'version' => '9b6f5759e043684d95a011a9080b28e6');

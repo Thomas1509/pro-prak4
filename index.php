@@ -1,2 +1,1 @@
-<?php
-// Silence is golden.
+<!-- silence of the lambs -->
